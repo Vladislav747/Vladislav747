@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vladislav747
 - 👀 I’m interested in Frontend
-- 🌱 I’m currently learning Python, Vue3
+- 🌱 My stack is React, Redux, Vue
 - 📫 How to reach me Telegram @Vladislav747
 
 <!---
